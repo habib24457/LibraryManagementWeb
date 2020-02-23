@@ -1,0 +1,37 @@
+.navbar{
+	background-color: #232f3d;
+	position: fixed;
+	width: 100%;
+
+}
+
+.btn{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.img-jumbo{
+
+	background-image: url("../images/books.jpeg");
+	background-size: cover;
+
+}
+
+.row{
+	padding-top:10px;
+}
+
+
+.a1{
+
+	height: 400px;
+	overflow-y: scroll;
+
+
+}
+
+.b{
+    height: 200px;
+    overflow-y: scroll;
+}
+
