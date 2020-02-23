@@ -2,7 +2,7 @@
 Library Management System Web Version
 
 Languages Used for building this projects are
--HTML, CSS, PHP, Javascript
+-HTML, CSS, PHP, Javascript,
 Framework: Bootstrap
 
 Functionalities :
