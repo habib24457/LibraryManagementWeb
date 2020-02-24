@@ -13,4 +13,4 @@ Functionalities :
 5.Responsive web design
 6.Simple quiz section(Still working on it to add more feature)
 
-#Have look at the output : https://youtu.be/KZzr0rpQNoI
+#Have look at the output : https://youtu.be/17a-pAYM5nw
